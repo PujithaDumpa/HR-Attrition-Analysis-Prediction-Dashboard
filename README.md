@@ -65,11 +65,14 @@ An interactive Power BI dashboard is built to help HR teams identify high-risk e
   - Notebook: Google Colab
   - Visualization: Power BI
 
-## 🎯 Business Impact
-  - Early detection of employees at high risk of attrition
-  - Data-driven retention strategies
-  - Explainable AI for transparent HR decisions
-  - Improved workforce planning
+## 🎯 Key Insights
+
+  - Overall employee attrition rate stands at 16.1%.
+  - Stock Option Level is the strongest attrition driver.Employees with stockoptionlevel with 0 accounts for 65% of total attrition
+  - Research and development department records highest attrition contribution with 56%.
+  - Employees wuith low environment satisfaction form the majority of attrition cases.
+  - The trained ML model predicts an attrition risk of 4.7% among the current workforce.
+  - 16 employees are high - risk candidates for potential attrition.
 
 ## 🚀 Key Learnings
 
