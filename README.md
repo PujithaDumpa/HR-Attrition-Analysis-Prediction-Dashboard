@@ -84,6 +84,6 @@ An interactive Power BI dashboard is built to help HR teams identify high-risk e
 
 ## 👩‍💻 Author
 
-  Pujitha Dumpa,
-  Computer Science Engineering Student,
+  Pujitha Dumpa<br>
+  Computer Science Engineering Student<br>
   Aspiring Data Analyst.
