@@ -15,12 +15,11 @@ An interactive Power BI dashboard is built to help HR teams identify high-risk e
    - Binary Classification (Attrition Prediction)
    - Imbalanced dataset
    -  Models Experimented
-         Logistic Regression
-         Decision Tree Classifier
-         Support Vector Classifier
-         Random Forest Classifier
+         Logistic Regression,
+         Decision Tree Classifier,
+         Support Vector Classifier,
+         Random Forest Classifier,
          XGBoost Classifier (Final Model)
-         Final Model Selection
   - XGBoost was selected due to better performance in identifying attrition cases after:
   - Handling class imbalance using scale_pos_weight
   - Threshold tuning based on F1-score
